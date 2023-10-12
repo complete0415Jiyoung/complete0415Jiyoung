@@ -1,13 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fc68b,100:fef381&height=180&text=Hellow!%20JiYoungWord!⭐&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
-    <div align= "center">
-      <br>
-      <br>
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 맑은 눈으로 코드를 봅니다👀 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 깨끗하고 선명한 시각으로 문제를 바라보는 멋쟁이 개발자💻<br> 개발의 세계를 탐험하고, 눈부신 프로젝트를 만들기 위해 끊임 없이 노력합니다❤️‍🔥 <br><br>언제든지 흥미로운 주제나 질문이 있으면 공유해 주세요❕ </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 깨끗하고 선명한 시각으로 문제를 바라보는 멋쟁이 개발자💻<br>개발의 세계를 탐험하고, 눈부신 프로젝트를 만들기 위해 끊임 없이 노력합니다❤️‍🔥 <br><br>언제든지 흥미로운 주제나 질문이 있으면 공유해 주세요❕ </div> 
     </div>
     <div align= "center">
+        <br>
+        <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -22,14 +22,14 @@
           <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           </div>
     </div>
-     <div align= "center">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ❤️‍🔥My Project </h2> <br> 
-      
-    
-    </div>
     <div align= "center">
-    <br>
-    <br>
+        <br>
+        <br>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 My Project </h2> <br> 
+    </div>    
+    <div align= "center">
+        <br>
+        <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@ee_ji0> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ee_ji0"> </a>
          <a href=mailto:jy04151004@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jy04151004@gmail.com"> </a>
@@ -39,8 +39,8 @@
        </div> 
     </div>
     <div align= "center"> 
-    <br>
-    <br>
+        <br>
+        <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=complete0415Jiyoung&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
