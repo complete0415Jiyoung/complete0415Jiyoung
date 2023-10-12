@@ -35,8 +35,9 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👀 My Project</h2>
-    [🍸세미 프로젝트 - MixologyConnecte🍸](https://github.com/MixologyConnect/SemiProject-MixologyConnect)<br>
-    [💪파이널 프로젝트 - 득근전수💪](https://github.com/DeuggeunJeonsu/DeuggeunJeonsu)<br>
+    <a href="https://github.com/MixologyConnect/SemiProject-MixologyConnect">🍸세미 프로젝트 - MixologyConnecte🍸</a><br>
+    <a href="https://github.com/DeuggeunJeonsu/DeuggeunJeonsu">💪파이널 프로젝트 - 득근전수💪</a><br>
+   
 </div>
 
 <br><br>
