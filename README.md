@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fc68b,100:fef381&height=180&text=Hellow!%20JiYoungWord!⭐&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fc68b,100:fef381&height=180&text=Hello!%20JiYoungWord!⭐&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">맑은 눈으로 코드를 봅니다👀</h2>
