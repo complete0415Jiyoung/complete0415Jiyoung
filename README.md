@@ -6,7 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         깨끗하고 선명한 시각으로 문제를 바라보는 멋쟁이 개발자💻<br>
         개발의 세계를 탐험하고, 눈부신 프로젝트를 만들기 위해 끊임 없이 노력합니다❤️‍🔥 <br><br>
-        언제든지 흥미로운 주제나 질문이 있으면 공유해 주세요❕
+        언제든지 흥미로운 주제나 질문이 있으면 공유해 주세요❕<br><br>
+         <a href="https://velog.io/@ee_ji0">💻하루 더 나아가는 중💻</a>
     </div>
 </div>
 
