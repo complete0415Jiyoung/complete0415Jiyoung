@@ -45,6 +45,7 @@
 - 플러터 개발자 양성과정 | 모두의 연구소, 오름캠프
     - 25.03 - 25.05
     - 앱개발에 필요한 Dart지식을 학습했습니다.
+    - [팀 프로젝트 - 개수방(최우수상 🏆)](https://github.com/complete0415Jiyoung/gaesubang-app)📱
 
        
 
